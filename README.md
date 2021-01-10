@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI_Startup_Prototype
 This is the code for "Watch Me Build an AI Startup" By Siraj Raval on Youtube
 
@@ -91,3 +92,8 @@ Read [this](http://flask.pocoo.org/docs/0.10/config/) for information on the pos
 ## License
 
 The MIT License (MIT). Please see the [license file](LICENSE) for more information.
+=======
+Test Repo
+v
+>>>>>>> df8005dd6ab73c37747cd67e3b2af8ba1c55c370
+# MyRepo
